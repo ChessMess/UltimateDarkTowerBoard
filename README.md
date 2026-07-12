@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> **This project has moved.** `UltimateDarkTowerBoard` is now part of the
+> [UltimateDarkTower monorepo](https://github.com/ChessMess/UltimateDarkTower) at `packages/board`.
+> Development continues there; this repository is **archived / read-only**.
+> Full git history was preserved (tags prefixed `board-*`).
+>
+> Live demo: https://chessmess.github.io/UltimateDarkTower/board/
+
 # Ultimate Dark Tower Board
 
 <p align="center">
